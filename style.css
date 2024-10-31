@@ -1,0 +1,28 @@
+body{
+    font-family:'Times New Roman', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: brown; 
+}
+
+nav {
+    margin: 20px 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+.contailer {
+    width: 80%;
+    margin: auto;
+}
+
+.footer {
+    background: #c21515;
+    color: #fff;
+
+    text-align: center;
+    padding: 10px 0;
+
+}
